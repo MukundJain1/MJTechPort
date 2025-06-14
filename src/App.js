@@ -41,7 +41,7 @@ function App() {
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
-        <SpeedInsights projectId="prj_M3jLQyJqwtIH26wUrkHU5IyIjb9P"/>
+        <SpeedInsights projectId="prj_MqHOtWp4VzPMquAmQx7taabJBp8L"/>
       </div>
     </Router>
   );
